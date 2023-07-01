@@ -24,7 +24,7 @@ The TCS iON RIO 125 Mobile Application for Attendance Management with Analytics 
 - **Analytics Dashboard**: The application generates comprehensive analytics reports and visualizations, enabling users to gain insights into attendance patterns, trends, and statistics.
 - **Data Export**: Attendance data can be exported in various formats (e.g., CSV, Excel) for further analysis or integration with other systems.
 
-- ## Credits
+## Credits
 
 * This Internship was Completed by Raja Subramanian V .
 * https://github.com/VRajaSubramanian/
@@ -33,7 +33,6 @@ The TCS iON RIO 125 Mobile Application for Attendance Management with Analytics 
 ## Contact
 
 If you have any questions or feedback, please contact rajasubramanianvel@gmail.com
-
 
 ## Disclaimer
 
