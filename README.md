@@ -37,3 +37,7 @@ If you have any questions or feedback, please contact rajasubramanianvel@gmail.c
 ## Disclaimer
 
 Please note that this repository only contains the documentation for the TCS iON RIO-125 Mobile Application. The source code and related development assets are not publicly available in this repository.
+
+### Important Links
+
+- View the Internship Report: [Report Link](https://drive.google.com/file/d/1_4n2UPrRTM8MHG2OHi9QgvoZ278Kn7gB/view?usp=drive_link)
