@@ -41,4 +41,4 @@ Please note that this repository only contains the documentation for the TCS iON
 ### Important Links
 
 - View the Internship Report: [Report Link](https://drive.google.com/file/d/1_4n2UPrRTM8MHG2OHi9QgvoZ278Kn7gB/view?usp=drive_link)
-- View the Internship Certificate: [Report Link](https://drive.google.com/file/d/1vW5R77cDucsU5FKS2MYWajznEgk8TyVF/view?usp=drive_link)
+- View the Internship Certificate: [Certificate Link](https://drive.google.com/file/d/1vW5R77cDucsU5FKS2MYWajznEgk8TyVF/view?usp=drive_link)
